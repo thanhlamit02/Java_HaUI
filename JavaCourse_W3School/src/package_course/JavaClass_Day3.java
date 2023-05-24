@@ -46,7 +46,7 @@ public class JavaClass_Day3 {
                 System.out.println("Thusday");
                 break; 
             case "6":
-                System.out.println("Friday");
+                System.out.println("Friday");   
                 break; 
             case "7":
                 System.out.println("Saturday");
@@ -57,5 +57,26 @@ public class JavaClass_Day3 {
             default:
                 System.out.println("You enter incorrect!");
         }
+        
+        //Thực hành với mảng
+        
+        int[] myArr = {1, 2, 3};
+        for(int i = 0; i < myArr.length; i++) {
+            System.out.println(myArr[i]);
+        }
+        
+        String[] myStr = {"Java", "PHP", "Ruby"};
+        myStr[2] = "Javascript";
+        System.out.println(myStr[2]);
+        
+        
+        int[][] myNums = {{1, 2, 3}, {4, 5, 6, 7}};
+        for (int i = 0; i < myNums.length; i++) {
+            //for(int[] myNums : myNums)
+            for (int j = 0; j < myNums[i].length; j++) {
+                System.out.printf("%d ", myNums[i][j]);
+            }
+        }
+        System.out.print(System.lineSeparator());
     }
 }

@@ -13,8 +13,19 @@ public class JavaFirst {
         System.out.println("Hello world");
         int a = 6;
         int b = 8;
-        System.out.print("a + b = "+Integer.sum(a, b));
+        System.out.println("a + b = " + Integer.sum(a, b));
     }
 }
+ 
 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
