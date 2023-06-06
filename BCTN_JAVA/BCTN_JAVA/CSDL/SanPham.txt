@@ -1,0 +1,5 @@
+SP01,Mũ lưỡi trai,Mũ in logo trường,Chiếc,4000,24000.0
+SP02,Giày thể chất,Giày cầu lông,Đôi,5000,78000.0
+SP03,Áo đồng phục,Áo in logo trường,Chiếc,5000,120000.0
+SP04,Quần đồng phục,Quần in logo trường,Chiếc,5000,76500.0
+SP005,Áo khoác,đỏ xanh có logo trường ,Chiếc,10000,120000.0

@@ -1,0 +1,9 @@
+root,root
+admin,admin
+admin,root
+root,admin
+a,Kc6cecch6hm3!
+b,Kc6cecch6hm3!
+admin123,Admin@123!
+admin1999,Admin@123!
+duong,02022002Duong@
